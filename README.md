@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning BTech CSE
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me @bisshorgho on instagram.
-- 😄 Pronouns: who/where
-- ⚡ Fun fact: It is a fact that I am fun.
 
 <!---
 AnikHC/AnikHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
